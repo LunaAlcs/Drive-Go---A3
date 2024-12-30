@@ -10,7 +10,8 @@ Foi decidido pelo grupo o que o tema do site seria uma LOCADORA DE CARROS onde t
 # A Experiencia
 Bom, essa foi de fato minha primeira experiencia como Desenvolvedor Web, no começo eu tive muita dificuldade para aprender coisas básicas, até mesmo me adaptar ao VisualCode.
 Aqui foi um projeto onde eu estava APRENDENDO e EXECUTANDO, por esse motivo as coisas levaram mais tempo para serem feitas, eu peguei o conhecimento passado pelos professores, pesquisei tutoriais, videos, assuntos na internet, adquiri cursos de Programação, e tambem muito auxilio do CHATGPT.
-No inicio do codigo eu busquei entender o maximo de semanticas e funções dentro do HTML e CSS, quando comecei a fazer os elementos como LISTAS e CONTEINER usei algumas metodos nao tao usuáis, apos cada dia e avanço do projeto fui melhorando minha forma de escalabilidade e criação do codigo, pois entendi que ao criar um codigo precimos considerar a manutenção e usabildiade para outros programadores tambem.
+No inicio do codigo eu busquei entender o maximo de semanticas e funções dentro do HTML e CSS, quando comecei a fazer os elementos como LISTAS e CONTEINER usei algumas metodos nao tao usuáis, apos cada dia e avanço do projeto fui melhorando minha forma de escalabilidade e criação do codigo, pois entendi que ao criar um codigo precisamos considerar a manutenção e usabilidade para outros programadores tambem.
+Procurei dicas e métodos para deixar o código o máximo organizado,fazendo anotaçoes e mantendo algumas padrões.
 
 # O processo
 ## Design
@@ -20,4 +21,7 @@ Eu optei por criar uma Logo propia, sem copiar ou fazer uma generica pois isso p
 - O segundo passo foi ajustar as resoluções, tamanho e qualidade da imagem para que a logo ficassem visivelmente agradavel ao site e aos usuarios;
 - Tendo decidido a Logo principal do projeto, dentro dela foi estabelicido a paleta de cores para o site.
 OBSERVAÇAO: Eu notei que a grande maioria dos site utilizam um padrao mais "simples" e minimalista para criar sua logo, e principalemnte na barra de navegação da página (<title>) utilizam mais Icons, disso eu criei uma logo com menos detalhes para ficar em no Title.
-- Dentro desses passos concluidos fui determinando e testando a paleta de cores nas formas que eu colocaria nos elementos do site EX:COR PRIMARIA, COR SECUNDARIA, COR FUNDO etc...
+- Dentro desses passos concluidos fui determinando e testando a paleta de cores nas formas que eu colocaria nos elementos do site Exemplo:COR PRIMARIA, COR SECUNDARIA, COR FUNDO etc...
+## Criação da barra de navegação 
+- Inicialmente a barra de navegação tinha sido feita por outro colega responsável pelo Front-End usando o Bootstrap, então o problema surgiu ao tentar estilizar com o CSS esse elemento, ficou difícil definir as cores desejadas, fazer algumas modificações acrescentando e removendo alguns elementos da navbar. 
+- Entao optamos por substituir o a navbar do Bootstrap, pegamos um modelos mais simples e como menos opções, onde eu consegui final estilizar e definir os pontos que desejava.
