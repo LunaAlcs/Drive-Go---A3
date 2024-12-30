@@ -24,4 +24,8 @@ OBSERVAÇAO: Eu notei que a grande maioria dos site utilizam um padrao mais "sim
 - Dentro desses passos concluidos fui determinando e testando a paleta de cores nas formas que eu colocaria nos elementos do site Exemplo:COR PRIMARIA, COR SECUNDARIA, COR FUNDO etc...
 ## Criação da barra de navegação 
 - Inicialmente a barra de navegação tinha sido feita por outro colega responsável pelo Front-End usando o Bootstrap, então o problema surgiu ao tentar estilizar com o CSS esse elemento, ficou difícil definir as cores desejadas, fazer algumas modificações acrescentando e removendo alguns elementos da navbar. 
-- Entao optamos por substituir o a navbar do Bootstrap, pegamos um modelos mais simples e como menos opções, onde eu consegui final estilizar e definir os pontos que desejava.
+- Entao optamos por substituir o a navbar do Bootstrap, pegamos um modelos mais simples e como menos opções, onde eu consegui final estilizar e definir os pontos que desejava, adicionando e removendo botões e links.
+## Criação do Rodapé 
+- Criar o Rodapé do site foi umas das minhas partes favoritas, pois explorei muitos métodos como o uso daa UL e DISPLAY específicos, sendo umas das partes do site que ficou mais original, pois foi feita do início ao fim manualmente.
+- Essa parte foi muito importante pois eu pratiquei muito posicionamento dos elementos, tamanhos e implementaçao de elementos framework como ICONS.
+
