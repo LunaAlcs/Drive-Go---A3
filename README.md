@@ -12,6 +12,11 @@ Bom, essa foi de fato minha primeira experiencia como Desenvolvedor Web, no come
 Aqui foi um projeto onde eu estava APRENDENDO e EXECUTANDO, por esse motivo as coisas levaram mais tempo para serem feitas, eu peguei o conhecimento passado pelos professores, pesquisei tutoriais, videos, assuntos na internet, adquiri cursos de Programação, e tambem muito auxilio do CHATGPT.
 No inicio do codigo eu busquei entender o maximo de semanticas e funções dentro do HTML e CSS, quando comecei a fazer os elementos como LISTAS e CONTEINER usei algumas metodos nao tao usuáis, apos cada dia e avanço do projeto fui melhorando minha forma de escalabilidade e criação do codigo, pois entendi que ao criar um codigo precisamos considerar a manutenção e usabilidade para outros programadores tambem.
 Procurei dicas e métodos para deixar o código o máximo organizado,fazendo anotaçoes e mantendo algumas padrões.
+# Código 
+## HTML
+No html eu busquei ao máximo a boa semântica, coloquei anotações explicativas para elementos mais complexos,busquei manter um padrão de nomenclatura para as Class e Id, que for se tornando algo mais intuitivo, e busquei me habituar o máximo ao inglês
+## CSS
+No CSS eu defini a paleta de cores logo no início do código, oque facilitou muito o processo de estilização minha e dos outros integrantes, busquei  no final do código tirar o máximo de coisas desnecessária, separei por Notas e Categorias cada parte do site para melhor visualização do código.
 
 # O processo
 ## Design
